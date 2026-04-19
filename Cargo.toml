@@ -1,0 +1,5 @@
+[package]
+name = "plato-sim-channel"
+version = "0.1.0"
+edition = "2021"
+description = "ChannelLayer adapter for plato-sim-bridge — simulation ↔ live channel bridging"
